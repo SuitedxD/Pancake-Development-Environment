@@ -1,0 +1,42 @@
+Pancake Development Environment — Testing-Only License v1.0
+
+Copyright (c) 2026 Suited. All rights reserved.
+
+1. LIMITED PURPOSE
+Permission is granted to download, inspect, modify, and run the Pancake Development
+Environment ("PDE") solely for private development and testing of Discord plugins in
+non-production test environments.
+
+2. STRICTLY PROHIBITED USES
+You may not use, deploy, host, or incorporate PDE as part of:
+  - a production bot or production service;
+  - a public bot, a bot offered to the general public, or a bot intended to serve
+    ordinary public servers;
+  - a paid, hosted, or commercial bot service;
+  - a substitute for Pancake Core or a way to operate Pancake Core functionality.
+
+For this license, a "public bot" includes a bot made available for general use or
+intended to operate in public communities, regardless of whether its source code is
+public or private. PDE is intended for private bots restricted to test servers.
+
+3. REDISTRIBUTION
+You may share unmodified copies of PDE with plugin developers only for the same
+private testing purpose, provided this license and all copyright notices remain
+included. You may not sell PDE, offer it as a hosted service, or represent it as
+Pancake Core. Distribution of modified versions outside a private testing group
+requires prior written permission from the copyright holder.
+
+4. NO WARRANTY
+PDE is provided "AS IS", without warranties or guarantees of any kind. You are
+responsible for securing your bot token, reviewing plugins, and operating your test
+environment safely. The copyright holder is not liable for damages arising from use
+or inability to use PDE, to the maximum extent permitted by law.
+
+5. SEPARATE RIGHTS
+This license applies only to the files distributed as the Pancake Development
+Environment. It does not grant rights to Pancake Core, any separate Pancake code,
+trademarks, documentation, or third-party plugins. Those materials may be subject
+to other terms.
+
+BY USING PDE, YOU AGREE TO THESE RESTRICTIONS. ANY PRODUCTION OR PUBLIC-BOT USE IS
+STRICTLY PROHIBITED.

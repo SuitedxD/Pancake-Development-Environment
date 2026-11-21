@@ -190,3 +190,16 @@ The API is intended to help you test plugin-to-plugin event contracts.
 PDE does not include cogs, a real connection with Pancake's database, command permission management or per-plugin configuration restoration. It does include a local JSON-backed Custom Events API for event declarations and plugin-to-plugin testing. `data.json` stores each server's installed plugin names, optional plugin test data, and Custom Events metadata.
 
 Read `LICENSE` for the full terms. Production use and public-bot use are strictly prohibited.
+
+# Direct Download
+
+- [Click here to download the lastest Pancake Development Environment release](https://github.com/SuitedxD/Pancake-Development-Environment/releases/download/pancake-development-environment/Pancake.Development.Environment.1.0.0.zip)
+
+# See Also
+- [Pancake Brand Assets Documentation](https://suitedxd.github.io/pancake-development-team/pancake/docs/?doc=831196984902987159549103)
+- [Pancake Main Page](https://suitedxd.github.io/pancake-development-team/pancake/)
+- [Pancake Documents](https://suitedxd.github.io/pancake-development-team/pancake/docs/)
+- [Plugin Portal](https://suitedxd.github.io/pancake-development-team/pancake/plugins/)
+- [Discord Server](https://discord.gg/SgXdeVaxuh)
+
+For questions, comments, or clarifications, please contact: pancakebot.team@gmail.com

@@ -193,10 +193,10 @@ Read `LICENSE` for the full terms. Production use and public-bot use are strictl
 
 # Direct Download
 
-- [Click here to download the lastest Pancake Development Environment release](https://github.com/SuitedxD/Pancake-Development-Environment/releases/download/pancake-development-environment/Pancake.Development.Environment.1.0.0.zip)
+- [Click here to download the latest Pancake Development Environment release](https://github.com/SuitedxD/Pancake-Development-Environment/releases/download/pancake-development-environment/Pancake.Development.Environment.1.0.0.zip)
 
 # See Also
-- [Pancake Brand Assets Documentation](https://suitedxd.github.io/pancake-development-team/pancake/docs/?doc=831196984902987159549103)
+- [Plugin Creation Guide](https://suitedxd.github.io/pancake-development-team/pancake/docs/?doc=730861939028283672138375)
 - [Pancake Main Page](https://suitedxd.github.io/pancake-development-team/pancake/)
 - [Pancake Documents](https://suitedxd.github.io/pancake-development-team/pancake/docs/)
 - [Plugin Portal](https://suitedxd.github.io/pancake-development-team/pancake/plugins/)
